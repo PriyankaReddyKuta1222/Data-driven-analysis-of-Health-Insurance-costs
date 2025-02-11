@@ -203,3 +203,6 @@ Interactive Dashboard:
 
 Create an interactive dashboard for real-time data analysis and visualization.
 
+For questions or suggestions, please contact:
+Priyanka Reddy Kuta : preddykuta@gmail.com
+
